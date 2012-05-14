@@ -1,4 +1,14 @@
-adaptive-forge-organization
-===========================
+Welcome to our project!
 
-AdaptiveForge project organization repository for administrative documents and policies.
+This is the AdaptiveForge project organization repository for administrative documents and policies pertaining to open 
+source projects managed and sponsored by the organization.
+
+<root>/licences     - Corporate and Individual Contributor License Agreements. All corporations and individuals wishing
+                      to contribute to AdaptiveForge and any of its managed projects must submit a contributors license
+                      agreement before contributions can be made.
+                      
+                      
+Have Fun!
+
+C!
+carlos@adaptiveforge.com
